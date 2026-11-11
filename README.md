@@ -15,4 +15,4 @@ Year 3 **Digital Forensics & Cyber Security** student at TU Dublin, focused on S
 **Security:** Burp Suite, OWASP ZAP, Wireshark, FTK Imager, Kali Linux · **Scripting:** Python, PowerShell, Bash, SQL · **Cloud:** AWS, Azure
 
 ## Find me
-[LinkedIn](https://www.linkedin.com/in/ibrahima-sow-519611439/) · [TryHackMe](https://tryhackme.com/p/IbrahimaSow) (Top 15%)
+[LinkedIn](https://www.linkedin.com/in/ibrahima-sow-519611439/) · [TryHackMe](https://tryhackme.com/p/IbrahimaSow)
